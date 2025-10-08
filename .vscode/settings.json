@@ -10,6 +10,6 @@
     "Rakefile": true,
     "Gemfile": true,
     "Gemfile.lock": true,
-    "spec": true
+    // "spec": true
   }
 }
