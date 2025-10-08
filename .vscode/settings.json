@@ -11,7 +11,5 @@
     "Gemfile": true,
     "Gemfile.lock": true,
     "spec": true
-  },
-  "chat.agent.enabled": false,
-  "chat.commandCenter.enabled": false
+  }
 }
