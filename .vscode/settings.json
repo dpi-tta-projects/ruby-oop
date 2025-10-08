@@ -13,6 +13,5 @@
     "spec": true
   },
   "chat.agent.enabled": false,
-  "chat.commandCenter.enabled": false,
-  "inlineChat.accessibleDiffView": "off"
+  "chat.commandCenter.enabled": false
 }
